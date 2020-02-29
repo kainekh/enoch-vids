@@ -1,5 +1,0 @@
-\select@language {english}
-\beamer@sectionintoc {1}{Book of Watchers background}{2}{0}{1}
-\beamer@sectionintoc {2}{Rewritten Bible}{20}{0}{2}
-\beamer@sectionintoc {3}{Genesis 6}{32}{0}{3}
-\beamer@sectionintoc {4}{Structure}{47}{0}{4}
